@@ -168,6 +168,11 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#geoffrey-woodcock-card {
+ background-image: url("");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
